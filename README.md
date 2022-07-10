@@ -6,3 +6,5 @@
 
 
 - 220706 (영상 ~23:00) Netflix 메인 홈페이지 로고와 버튼 position
+- 220709 (영상 ~1:00:00) Netflix tab
+- 220710 Netflix 완료
